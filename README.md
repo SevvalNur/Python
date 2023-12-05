@@ -1,4 +1,4 @@
-# Python
+# Python Notlarım
 
 Python
 * Çalıştırılabilir dosya:bir programlama dilinde kodun derlenmesiyle elde edilen,makine diline dönüştürülmüş hazır programa denir.Windows'ta uzantısı ".exe" dir.(executable)run komutuyla çalışır.
