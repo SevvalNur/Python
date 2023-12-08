@@ -25,7 +25,7 @@ try:
 
     # TwoSum fonksiyonunu çağır ve sonucu yazdır
     result = sol.TwoSum(nums, target)
-    print("Sonuç:", result,"iki indisin toplamıdır.")
+    print("Sonuç:", result," target iki indisin toplamıdır.")
 
 except ValueError:
     print("Hatalı giriş. Lütfen sayıları doğru formatta girin.")
