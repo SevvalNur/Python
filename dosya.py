@@ -2,7 +2,7 @@ import cv2 as cv
 import numpy as np
 
 # Read an image
-image1 = cv.imread(r'C:\Users\sevva\Desktop\opencv\photos\cats.jpg')
+image1 = cv.imread(r'\opencv\photos\cats.jpg')
 
 
 # Display the original image
